@@ -1,4 +1,4 @@
-=== Trivial loger for node
+### Trivial loger for node
 
 ```js
 var Logger = require('trivial-logger');
